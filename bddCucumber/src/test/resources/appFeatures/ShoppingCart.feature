@@ -1,5 +1,5 @@
-@account
-Feature: Account Page Feature
+@cart
+Feature: Shopping Cart Page Feature
 
   Background: 
     Given user has already logged in to application
